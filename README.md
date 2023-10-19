@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm YukiZyx</h1>
 <h3 align="center">Developer Bot WhatsApp</h3>
 
-- 👨‍💻 All of my projects are available at [https://telegra.ph/file/69c6c090b76553a271798.jpg](https://telegra.ph/file/69c6c090b76553a271798.jpg)
+- 👨‍💻 All of my projects are available at [https://github.com/neo754](https://github.com/neo754)
 
 - 📫 How to reach me **yukipedia20@gmail.com**
 
